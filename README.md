@@ -15,7 +15,8 @@ Tags the files obtained from Overdrive through Libbyfetch
 
 5. Run `python3 OD_tagger_V2.py <URL>`
 
-It will tag the files with 
+It will tag the files with: 
+
   Album
  
   Author
